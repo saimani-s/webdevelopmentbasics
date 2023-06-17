@@ -1,0 +1,129 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+
+}
+.start{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+    padding: 20px;
+}
+.big{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+    
+}
+.a >img{
+border:2px solid grey;
+height: 500px;
+width:350px;
+
+}
+.a{
+    padding: 15px;
+}
+.b{
+    margin-top:30px;
+   
+}
+
+.b >h5{
+    color: grey;
+    padding: 10px;
+}
+.b >img{
+    height: 30px;
+    width:120px;
+    padding: 15px;
+}
+.c{
+    display: flex;
+    flex-direction: row;
+  
+}
+.c >h2{
+padding: 5px;
+font-size: 18px;
+}
+.c >del{
+    padding: 5px;
+    margin-top: 3px;
+    }
+    .c >h1{
+        padding: 5px;
+        color: green;
+font-size: 18px;
+        }
+            .d,.e {
+                display: flex;
+                flex-direction: row;
+                font-size: 18px;
+                
+            }
+
+            .d >p{
+                padding: 3px;
+            
+            }
+            
+            .e >p{
+                padding: 3px;
+            }
+            
+            .f{
+                display: flex;
+                flex-direction: row;
+            }
+            .f >p{
+                font-size: 18px;
+            }
+            .z >form{
+                display: flex;
+                flex-direction: row;
+            width: 250px;
+                justify-content: space-between;
+                margin-left:10px;
+            }
+            .z >input{
+                padding: 5px;
+            }
+.b >.c,.d,.e,.f,.l,.fd {
+    padding: 4px;
+  
+}
+.b >img{
+    margin-left:-15px;
+}
+.c,.d,.e,.f,.fd,.l {
+    margin-left:16px;
+}
+.b >h1{
+    margin-left:16px;
+    padding: 3px;
+}
+.b >h5{
+    margin-left:16px;
+}
+.buts >input{
+    padding: 3px 8px;
+    font-size: 13px;
+    font-weight: 500;
+    color: black ;
+    border: 2px solid grey ;
+    border-radius: 3px;
+   background-color: white;
+   margin-left: 2vh;
+}
+.buts >input:hover{
+    background-color: rgb(55, 14, 14);
+    color: white;
+    border-color: rgb(52, 11, 11);
+}
+.dj{
+    display: flex;
+    flex-direction: row;
+}
